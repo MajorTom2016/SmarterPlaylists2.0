@@ -5,7 +5,7 @@ var apiLocalPath = 'http://localhost:5000/SmarterPlaylists/';
 var apiRemotePath = 'http://smarterplaylists.playlistmachinery.com/SmarterPlaylists/'
 
 var client_id = 'bb61fcfe1423449ba3d8e3b016316316'; // smarter playlists
-var client_id = '31469b011d4941bf8dd4ac9cf8495bac'; // sort your music ID
+var client_id = 'c29f830ffbd24f62b21b1d78ddabd0b7'; // sort your music ID
 
 var local_redirect_uri = 'http://localhost:8000/callback.html';
 var remote_redirect_uri = 'http://static.echonest.com/SmarterPlaylists/callback.html';
