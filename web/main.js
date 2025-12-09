@@ -13,7 +13,7 @@ var remote_redirect_uri = 'http://smarterplaylists.playlistmachinery.com/callbac
 
 var local_auth_redirect_uri = 'http://localhost:8000/auth.html';
 var remote_auth_redirect_uri = 'http://static.echonest.com/SmarterPlaylists/auth.html';
-var remote_auth_redirect_uri = 'http://smarterplaylists.playlistmachinery.com/auth.html';
+var remote_auth_redirect_uri = 'https://majortom2016.github.io/SmarterPlaylists2.0/auth.html';
 
 var apiPath = isLocalHost() ? apiLocalPath : apiRemotePath;
 var redirect_uri = isLocalHost() ? local_redirect_uri : remote_redirect_uri;
